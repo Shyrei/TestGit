@@ -14,10 +14,6 @@ public class Sort {
                     int tmp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = tmp;
-					System.out.println("method bubleSort ooo");
-                    System.out.println("lalala");
-                    System.out.println("Push with error22222");
-					System.out.println("pp2222pp");
                 }
             }
         }

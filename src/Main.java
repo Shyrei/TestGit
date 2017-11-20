@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 import java.util.Arrays;
 
 public class Main {
@@ -7,6 +9,8 @@ public class Main {
 
         Sort.bubbleSort(mas);
         Printer.print(mas);
+
+        System.out.println("Merge error - Shyrei");
 
 
     }
