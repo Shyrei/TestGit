@@ -13,6 +13,7 @@ public class Sort {
                     arr[j] = arr[j + 1];
                     arr[j + 1] = tmp;
 					System.out.println("method bubleSort");
+					System.out.println("method2");
                 }
             }
         }
