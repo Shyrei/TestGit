@@ -17,7 +17,11 @@ public class Sort {
 					System.out.println("method2");
 =======
 					System.out.println("method bubleSort ooo");
+<<<<<<< HEAD
 >>>>>>> 14079c46c5086de3923bd715c14b6c1ed1b4e6a4
+=======
+                    System.out.println("lalala");
+>>>>>>> fd9fb3b8a6601ef7a514baeea2e61ed5605ca93f
                 }
             }
         }
