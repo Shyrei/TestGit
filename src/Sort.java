@@ -12,8 +12,12 @@ public class Sort {
                     int tmp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = tmp;
+<<<<<<< HEAD
 					System.out.println("method bubleSort");
 					System.out.println("method2");
+=======
+					System.out.println("method bubleSort ooo");
+>>>>>>> 14079c46c5086de3923bd715c14b6c1ed1b4e6a4
                 }
             }
         }
