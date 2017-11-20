@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 import java.util.Collection;
 
 public class Sort {
@@ -14,6 +16,8 @@ public class Sort {
                     arr[j + 1] = tmp;
 					System.out.println("method bubleSort ooo");
                     System.out.println("lalala");
+
+                    System.out.println("Push with error");
                 }
             }
         }
