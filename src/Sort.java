@@ -6,5 +6,7 @@ class Sort {
 
         System.out.println("Я хакер - ломаю оригинальную ветку");
 
+        System.out.println("очу удалить в оригине все нахрен");
+
     }
 }
