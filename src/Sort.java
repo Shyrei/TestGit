@@ -1,5 +1,7 @@
 class Sort {
 
+    // метод полностью рабочий - ничего не удалять
+
     static void bubbleSort(int[] arr) {
 
         for (int i = arr.length - 1; i > 0; i--) {
