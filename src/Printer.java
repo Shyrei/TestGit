@@ -1,4 +1,4 @@
-public class Printer {
+class Printer {
 
     static void print(int[] arr){
         for (int elem: arr) {

@@ -1,8 +1,4 @@
-import com.sun.org.apache.xpath.internal.SourceTree;
-
-import java.util.Collection;
-
-public class Sort {
+class Sort {
 
     static void bubbleSort(int[] arr) {
 
