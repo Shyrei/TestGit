@@ -2,6 +2,8 @@
 
     // метод полностью рабочий - ничего не удалять
 
+    // THIS IS JAVA LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB!
+
     static void bubbleSort(int[] arr) {
 
         for (int i = arr.length - 1; i > 0; i--) {
