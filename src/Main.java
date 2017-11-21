@@ -5,5 +5,11 @@ public class Main {
         Sort.bubbleSort(mas);
         Printer.print(mas);
         System.out.println("sasha");
+
+        // комментарий от Вовы
+        // пробуем сделать конфликт
+
+
+
     }
 }
