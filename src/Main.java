@@ -6,6 +6,6 @@ public class Main {
         Printer.print(mas);
         System.out.println("sasha");
         System.out.println("sasha2");
-        System.out.println("supersasha");
+        // chto-to
     }
 }
