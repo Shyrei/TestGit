@@ -1,8 +1,6 @@
-class Sort {
+﻿class Sort {
 
     // метод полностью рабочий - ничего не удалять
-
-    //  не удалять никогда
 
     static void bubbleSort(int[] arr) {
 
