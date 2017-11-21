@@ -2,7 +2,13 @@
 
     // метод полностью рабочий - ничего не удалять
 
+
     // THIS IS JAVA LAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB!
+
+    //  не удалять никогда
+
+    //изменяем проект вместе с Ксюшей - надо чтобы был конфликт
+
 
     static void bubbleSort(int[] arr) {
 
